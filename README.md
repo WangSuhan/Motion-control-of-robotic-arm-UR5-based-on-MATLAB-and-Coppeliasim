@@ -22,3 +22,7 @@ How to run
 3.click "start/resume simulation" button in coppeliasim.
 
 4.click "run" button in Matlab.
+
+Outcome
+-----
+![image](https://github.com/WangSuhan/Motion-control-of-robotic-arm-UR5-based-on-MATLAB-and-Coppeliasim/blob/main/code/p1.JPG)
